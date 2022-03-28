@@ -4,6 +4,6 @@
 <br><br>
 [![Ekonomi Botu](https://github-readme-stats.vercel.app/api/pin/?username=InFlames513&repo=Ekonomi&&bg_color=151515&text_color=ffffff)](https://github.com/InFlames513/Ekonomi)
 &ensp;&ensp;&ensp;
-[![Sesli Asistan](https://github-readme-stats.vercel.app/api/pin/?username=InFlames513&repo=Sesli-Asistan&&bg_color=151515&text_color=ffffff)](https://github.com/InFlames513/Sesli-Asistan)
+[![Sesli Asistan](https://github-readme-stats.vercel.app/api/pin/?username=InFlames513&repo=inflames.db&&bg_color=151515&text_color=ffffff)](https://github.com/InFlames513/inflames.db)
 <br><hr><br>
 ![InFlames](https://github-readme-stats.vercel.app/api/top-langs/?username=InFlames513&&title_color=daf7dc&layout=compact&text_color=daf7dc&bg_color=151515)
