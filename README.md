@@ -2,7 +2,7 @@
 &ensp;&ensp;&ensp;
 [![Mail Bot](https://github-readme-stats.vercel.app/api/pin/?username=InFlames513&repo=Discord-E-posta-Do-rulama-Mail-Form&&bg_color=151515&text_color=ffffff)](https://github.com/InFlames513/Discord-E-posta-Do-rulama-Mail-Form)
 <br><br>
-[![Sesli Asistan](https://github-readme-stats.vercel.app/api/pin/?username=InFlames513&repo=Sesli-Asistan&&bg_color=151515&text_color=ffffff)](https://github.com/InFlames513/Sesli-Asistan)
+[![Ekonomi Botu](https://github-readme-stats.vercel.app/api/pin/?username=InFlames513&repo=Ekonomi&&bg_color=151515&text_color=ffffff)](https://github.com/InFlames513/Ekonomi)
 &ensp;&ensp;&ensp;
 [![Sesli Asistan](https://github-readme-stats.vercel.app/api/pin/?username=InFlames513&repo=Sesli-Asistan&&bg_color=151515&text_color=ffffff)](https://github.com/InFlames513/Sesli-Asistan)
 <br><hr><br>
