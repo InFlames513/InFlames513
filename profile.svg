@@ -20,7 +20,7 @@
         --color-link: #9DBC98;
         --color-link-active: #638889;
 
-        height: 400px;
+        height: 350px;
         width: 100%;
         text-transform: uppercase;
         display: flex;
