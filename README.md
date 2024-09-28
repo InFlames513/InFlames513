@@ -1,16 +1,5 @@
 <div align="center">
-  <h1>Hi! I'am InFlames</p><h1>
-  <h2 id="discord_status"></h2>
-  <h3>:man_technologist: I like Python and JavaScript.<br>:handshake: I share my made projects at github.<br>:star2: Don't forget to give stars to my projects.<br>:mending_heart: Good Work!</h3>
+  <h1>Hi! I'm InFlames</h1>
+  <img src="https://lanyard-profile-readme.vercel.app/api/762420804066738186" alt="Discord Status"/>
+  <h3>👨‍💻 I like Python and JavaScript.<br>🤝 I share my projects on GitHub.<br>🌟 Don't forget to give stars to my projects.<br>❤️ Good Work!</h3>
 </div>
-
-<script>
-  setInterval(() => {
-    fetch("https://api.lanyard.rest/v1/users/162969778699501569").then(res => {
-      console.log(res.json());
-      let data = res.json().data.discord_status;
-      let status = data=="dnd"?"🔴 Do Not Disturb ":data=="idle"?"🟡 Idle":data=="online"?"🟢 Online":"⚪ Offline";
-      document.getElementById("discord_status").innerHTML = status;
-    });
-  });
-</script>
